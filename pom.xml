@@ -63,7 +63,7 @@
 
             <artifactId>xstream</artifactId>
 
-            <version>1.4.8</version>
+            <version>1.4.17</version>
 
         </dependency>
     </dependencies>
